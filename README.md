@@ -1,5 +1,4 @@
 # hello-world
-just a test repository
 
 Hi Humans!
 Jack here. I like Node.js and Coffescript.
